@@ -15,9 +15,10 @@ Dự án này mang đến:
 
 | **IDE**              | **Mô tả**                                      | **Truy cập**                                                                 |
 |-----------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-| <img src="https://code.visualstudio.com/assets/favicon.ico" width="50" height="50"> | IDE nhẹ, nhiều extension hữu ích        | [🌐 Visual Studio Code](https://code.visualstudio.com/)                     |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Dev-C%2B%2B_logo.svg" width="50" height="50"> | IDE dễ sử dụng, phù hợp người mới học   | [🌐 Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)               |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/CodeBlocks_logo.svg" width="50" height="50"> | IDE mạnh mẽ với nhiều tính năng         | [🌐 Code::Blocks](http://www.codeblocks.org/)                               |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="50" height="50"> | IDE mạnh mẽ, hỗ trợ đa ngôn ngữ và phát triển đa nền tảng.        | [🌐 Visual Studio](https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030:5218f5378adf4a708377f59149e926e8)                     |
+| <img src="https://code.visualstudio.com/assets/favicon.ico" width="50" height="50"> | IDE nhẹ, nhiều extension hữu ích        | [🌐 Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)                     |
+| <img src="https://store-images.s-microsoft.com/image/apps.8200.14525614036320964.388ccdd1-65a9-4bfc-81ce-c614493bcc79.5dfc4719-b603-45a1-a73e-bf55d9d25077" width="50" height="50"> | IDE dễ sử dụng, phù hợp người mới học   | [🌐 Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)               |
+| <img src="https://www.codeblocks.org/images/logo160.png" width="50" height="50"> | IDE mạnh mẽ với nhiều tính năng         | [🌐 Code::Blocks (FossHub)](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)                               |
 | <img src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width="50" height="50"> | IDE cao cấp dành cho chuyên nghiệp       | [🌐 CLion](https://www.jetbrains.com/clion/)                               |
 
 ---
@@ -50,8 +51,8 @@ Dự Án Nội Bộ: Tổng Hợp Đề C++
 ## 📘 **Hướng dẫn và tài liệu**
 
 1. **Lập trình C++ từ cơ bản đến nâng cao**
-   - 🌐 [Tutorialspoint](https://www.tutorialspoint.com/cplusplus/index.htm)
-   - 📄 [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+   - <img src="https://luyencode.net/favicon-96x96.png" width="25" height="25"> [LuyenCode](https://luyencode.net/)
+   - <img src="https://codelearn.io/favicon.png" width="25" height="25"> [CodeLearn](https://codelearn.io/)
 
 2. **Sách tham khảo**
    - 📕 "C++ Primer" - Stanely B. Lippman
