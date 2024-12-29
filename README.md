@@ -80,4 +80,4 @@ Chúng tôi luôn chào đón sự đóng góp từ cộng đồng!
 ### **🎯 Mục tiêu**
 Hỗ trợ mọi người học C++ hiệu quả nhất, từ những bước đầu tiên đến các dự án thực tế! 🚀
 
-<img src="https://stackoverflow.design/assets/img/logos/audience/soa-logo.svg" width="125"><img src="https://dangkywebvoibocongthuong.com/wp-content/uploads/2021/11/logo-da-thong-bao-bo-cong-thuong.png" width="125"><img src="https://tinnhiemmang.vn/storage/photos/shares/CetificateTrust/web_pre_2x.png" width="125">
+<img src="https://stackoverflow.design/assets/img/logos/audience/soa-logo.svg" width="125">      <img src="https://dangkywebvoibocongthuong.com/wp-content/uploads/2021/11/logo-da-thong-bao-bo-cong-thuong.png" width="125">      <img src="https://tinnhiemmang.vn/storage/photos/shares/CetificateTrust/web_pre_2x.png" width="125">
