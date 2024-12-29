@@ -1,5 +1,5 @@
 
-# 🌟 **Dự Án Nội Bộ: Tổng Hợp Đề C++** 🌟
+# 🌟 **Mã Nguồn C++ và Tài Liệu** 🌟
 
 ---
 
@@ -26,26 +26,26 @@ Dự án này mang đến:
 ## 📂 **Cấu trúc dự án**
 
 ```plaintext
-Dự Án Nội Bộ: Tổng Hợp Đề C++
+Mã Nguồn C++ và Tài Liệu
 ├── Bài Tập Cơ Bản
-│   ├── BT1_Variables.cpp
-│   ├── BT2_Loops.cpp
-│   ├── BT3_Functions.cpp
+│   ├── 
+│   ├── 
+│   ├── 
 │   └── README.md
 ├── Bài Tập Nâng Cao
-│   ├── BT1_Pointers.cpp
-│   ├── BT2_OOP.cpp
+│   ├── 
+│   ├── 
 │   └── README.md
 ├── Bài Tập Ứng Dụng
-│   ├── BT1_SortingAlgorithms.cpp
-│   ├── BT2_FileHandling.cpp
+│   ├── 
+│   ├── 
 │   └── README.md
 └── Tài Liệu Hướng Dẫn
-    ├── C++Primer.pdf
-    ├── EffectiveModernCpp.pdf
+    ├── 
+    ├──
     └── README.md
 ```
-
+- *Vùng bỏ trống: chưa có, chưa xác định*
 ---
 
 ## 📘 **Hướng dẫn và tài liệu**
@@ -59,8 +59,8 @@ Dự Án Nội Bộ: Tổng Hợp Đề C++
    - 📗 "Effective Modern C++" - Scott Meyers
 
 3. **Cộng đồng học tập**
-   - 💬 [StackOverflow](https://stackoverflow.com/)
-   - 🤝 [Reddit](https://www.reddit.com/r/cpp/)
+   - <img src="https://static-00.iconduck.com/assets.00/stack-overflow-icon-1024x1024-z4y2lqfd.png" width="25" height="25"> [StackOverflow](https://stackoverflow.com/)
+   - <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" width="25" height="25"> [Reddit](https://www.reddit.com/r/cpp/)
 
 ---
 
@@ -80,3 +80,7 @@ Chúng tôi luôn chào đón sự đóng góp từ cộng đồng!
 
 ### **🎯 Mục tiêu**
 Hỗ trợ mọi người học C++ hiệu quả nhất, từ những bước đầu tiên đến các dự án thực tế! 🚀
+
+<img src="https://stackoverflow.design/assets/img/logos/audience/soa-logo.svg" width="125">
+<img src="https://dangkywebvoibocongthuong.com/wp-content/uploads/2021/11/logo-da-thong-bao-bo-cong-thuong.png" width="125">
+<img src="https://tinnhiemmang.vn/storage/photos/shares/CetificateTrust/web_pre_2x.png" width="125">
