@@ -31,11 +31,11 @@ Mã Nguồn C++ và Tài Liệu
 │   ├── 
 │   ├── 
 │   └── README.md
-├── Bài Tập Nâng Cao
+├── Bài Tập Áp Dụng
 │   ├── 
 │   ├── 
 │   └── README.md
-├── Bài Tập Ứng Dụng
+├── Bài Tập Luyện Tập
 │   ├── 
 │   ├── 
 │   └── README.md
